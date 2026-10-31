@@ -1,0 +1,8 @@
+{
+  "_note": "From the ops team's last project. Works.",
+  "owner": "<owner code from start-challenge>",
+  "agents": {
+    "pulse": { "wakes": "pulse", "may": ["answer", "comment", "label", "close"] },
+    "test-writer": { "wakes": "test", "may": ["test", "answer", "comment"] }
+  }
+}

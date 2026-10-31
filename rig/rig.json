@@ -1,0 +1,6 @@
+{
+  "adapter": "shim",
+  "installed": "2026-10-29T14:06:00+01:00",
+  "beatEverySeconds": 60,
+  "runsDir": "runs"
+}
